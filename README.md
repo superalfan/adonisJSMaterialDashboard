@@ -18,7 +18,7 @@ atau bisa menggunakan
     yarn
 
 karena versi free ini belum di integrasikan dengan database, silahkan isi sembarang
-atau tetap biarkan dengan yang sudah terisis seperti berikut
+atau tetap biarkan dengan yang sudah terisi seperti berikut
 
     DB_HOST=127.0.0.1
     DB_PORT=3306
@@ -33,26 +33,25 @@ atau tetap biarkan dengan yang sudah terisis seperti berikut
 Saya juga menyediakan Framework ini untuk versi Pro yang terdiri dari
 
 Admin Dashboard    
-    # Admin Login + captcha
-    # Admin Register + captcha
-    # Forgot Password 
-    # Confirm Email with OTP
+    * Admin Login + captcha
+    * Admin Register + captcha
+    * Forgot Password 
+    * Confirm Email with OTP
 
 User Dashboar
-    # User Login + captcha
-    # User Register + captcha
-    # Forgot Password
-    # Confirm Email with OTP
-    # Logout
+    * User Login + captcha
+    * User Register + captcha
+    * Forgot Password
+    * Confirm Email with OTP
+    * Logout
 
 
 App
-    # User Login + captcha
-    # User Register + captcha
-    # Forgot Password
-    # Confirm Email with OTP
-
-    # App Dashboard 5 Tab Kosong (siap dijadikan apapun terserah User)
+    * User Login + captcha
+    * User Register + captcha
+    * Forgot Password
+    * Confirm Email with OTP
+    * App Dashboard 5 Tab Kosong (siap dijadikan apapun terserah User)
 
 
 untuk database versi Pro
