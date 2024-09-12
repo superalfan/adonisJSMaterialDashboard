@@ -24,7 +24,7 @@ atau tetap biarkan dengan yang sudah terisis seperti berikut
     DB_PORT=3306
     DB_USER=userone
     DB_PASSWORD=secret
-DB_DATABASE=adonisjsblackdashboard
+    DB_DATABASE=adonisjsblackdashboard
 
 
 
