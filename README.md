@@ -11,19 +11,19 @@ masuk ke directory
 
 cd adonisjsblackdashboard
 
-npm i 
+    npm install
 
-    atau bisa menggunakan 
+atau bisa menggunakan 
 
-yarn
+    yarn
 
 karena versi free ini belum di integrasikan dengan database, silahkan isi sembarang
 atau tetap biarkan dengan yang sudah terisis seperti berikut
 
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_USER=userone
-DB_PASSWORD=secret
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_USER=userone
+    DB_PASSWORD=secret
 DB_DATABASE=adonisjsblackdashboard
 
 
