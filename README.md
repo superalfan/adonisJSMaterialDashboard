@@ -32,26 +32,29 @@ atau tetap biarkan dengan yang sudah terisi seperti berikut
 
 Saya juga menyediakan Framework ini untuk versi Pro yang terdiri dari
 
-Admin Dashboard    
-    * Admin Login + captcha
-    * Admin Register + captcha
-    * Forgot Password 
-    * Confirm Email with OTP
+Admin Dashboard 
 
-User Dashboar
-    * User Login + captcha
-    * User Register + captcha
-    * Forgot Password
-    * Confirm Email with OTP
-    * Logout
+    Admin Login + captcha
+    Admin Register + captcha
+    Forgot Password 
+    Confirm Email with OTP
+
+User Dashboard
+
+    User Login + captcha
+    User Register + captcha
+    Forgot Password
+    Confirm Email with OTP
+    Logout
 
 
 App
-    * User Login + captcha
-    * User Register + captcha
-    * Forgot Password
-    * Confirm Email with OTP
-    * App Dashboard 5 Tab Kosong (siap dijadikan apapun terserah User)
+
+    User Login + captcha
+    User Register + captcha
+    Forgot Password
+    Confirm Email with OTP
+    App Dashboard 5 Tab Kosong (siap dijadikan apapun terserah User)
 
 
 untuk database versi Pro
