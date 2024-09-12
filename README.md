@@ -3,9 +3,9 @@ Memadukan AdonisJS 6 dan Material Dashboard 2
 
 Saya gabungkan Framework AdonisJS V6 dengan Material Black Dashboard Versi Free
 
-silahkan download versi free ini di repository berikut : https://github.com/superalfan/adonisjsblackdashboard
+silahkan download versi free ini di repository berikut : https://github.com/superalfan/adonisJSMaterialDashboard
 
-git clone https://github.com/superalfan/adonisjsblackdashboard
+git clone https://github.com/superalfan/adonisJSMaterialDashboard
 
 masuk ke directory 
 
