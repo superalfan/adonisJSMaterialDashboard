@@ -9,7 +9,7 @@ git clone https://github.com/superalfan/adonisJSMaterialDashboard
 
 masuk ke directory 
 
-cd adonisjsblackdashboard
+cd adonisJSMaterialDashboard
 
     npm install
 
@@ -24,7 +24,7 @@ atau tetap biarkan dengan yang sudah terisi seperti berikut
     DB_PORT=3306
     DB_USER=userone
     DB_PASSWORD=secret
-    DB_DATABASE=adonisjsblackdashboard
+    DB_DATABASE=adonisJSMaterialDashboard
 
 Catatan :
 =============
@@ -68,3 +68,13 @@ Table user dan admin ada di satukan di table user dan admin dibedakan di kolom r
 
 Koneksi antara app dan backend hanya untuk user tidak disediakan untuk admin
 koneksi ke app menggunakan auth token
+
+
+Donasi untuk hosting demo versi pro
+
+    Wallet address : 
+
+Donate for hosting the pro version demo
+
+    Wallet address :
+
