@@ -1,7 +1,10 @@
 # adonisJSMaterialDashboard
 Memadukan AdonisJS 6 dan Material Dashboard 2
 
-Saya gabungkan Framework AdonisJS V6 dengan Material Black Dashboard Versi Free
+Saya gabungkan Framework AdonisJS V6 dengan Material Dashboard Versi Free
+
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/50/original/material-dashboard.jpg?1634648873)
+
 
 silahkan download versi free ini di repository berikut : https://github.com/superalfan/adonisJSMaterialDashboard
 
@@ -72,9 +75,9 @@ koneksi ke app menggunakan auth token
 
 Donasi untuk hosting demo versi pro
 
-    Wallet address : 
+    Wallet address : 0x8C7d2b8F0d28bbC441Bf17AbEC875d8C8c12F332
 
 Donate for hosting the pro version demo
 
-    Wallet address :
+    Wallet address : 0x8C7d2b8F0d28bbC441Bf17AbEC875d8C8c12F332
 
